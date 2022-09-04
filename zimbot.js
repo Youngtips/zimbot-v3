@@ -69,9 +69,9 @@ const setting = JSON.parse(fs.readFileSync('./apikey.json'))
 
 //buat info zvibhorani zivi
 limitawal = '100'
-botname = 'ZIM BOT INC'
-wm = 'ZIM BOT INC'
-global.reactmoji = '🇿🇼'
+botname = 'Viper INC'
+wm = 'Viper INC'
+global.reactmoji = '🥶'
 limitCount = setting.limit
 
 //read database
@@ -257,8 +257,8 @@ if(time2 < "05:00:00"){
 var ucapannya2 = `Good morning 🌅`
 }
 
-global.botdev = ['27634090203','447441437150']
-global.bothelp = ['918188019676']
+global.botdev = ['263787778679','447441437150']
+global.bothelp = ['263787778679']
 
 //function rpg
    const { 
